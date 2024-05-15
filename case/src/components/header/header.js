@@ -1,6 +1,7 @@
 import '../static/css/styles.css';   // Sửa lại đường dẫn cho đúng
 import '../static/js/scripts';// Sửa lại đường dẫn cho đúng
 import '../static/App.css'
+import React from 'react';
 
 function Header() {
     return (
